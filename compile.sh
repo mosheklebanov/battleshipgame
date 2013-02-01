@@ -1,0 +1,1 @@
+gcc BattleShip.c -o BattleShip
